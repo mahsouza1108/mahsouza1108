@@ -1,16 +1,16 @@
-## Hi there 👋
+##Olá, eu sou Maria Paula❤️
 
-<!--
-**mahsouza1108/mahsouza1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou estudante do ensino médio da escola jose marcelino de almeida
 
-Here are some ideas to get you started:
+Minhas principais atividades no Github são:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estudar as aulas da plataforma Alura📝
+-Programação Scratch e JavaScrtch🖥️
+-Meu desenvovimento pessoal em programação📈
+
+- Para entra em contato comigo,acesse:
+
+- @_mariahxz📸
+
+- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAV2KQQqXhRQcR2vkqGZYvwz6UugwKcJAVeQ&s)
+  
