@@ -12,5 +12,5 @@ Minhas principais atividades no Github são:
 
 - @_mariahxz📸
 
-- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAV2KQQqXhRQcR2vkqGZYvwz6UugwKcJAVeQ&s)
+- ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZjkdFLzgbLAZyNiWiRDFvUzlqHn6EdMBsQ&s)
   
